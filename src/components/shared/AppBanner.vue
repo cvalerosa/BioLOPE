@@ -59,7 +59,7 @@ export default {
 			</div>
 			<img
 				:src="require('@/assets/images/wild-bird-flock.svg')"
-				class="hidden sm:block absolute bottom-16 xl:bottom-16 left-4 xl:left-[20rem] w-8"
+				class="hidden sm:block absolute bottom-16 xl:bottom-10 left-4 xl:left-[20rem] w-8"
 				data-aos="fade-up"
 				data-aos-delay="300"
 			/>

@@ -20,7 +20,8 @@ export default {
 
 		<!-- Projects -->
 		<ProjectsGrid />
-
+		<br>
+		<br>
 		<!-- Load more projects button -->
 		<div>
 			<router-link
