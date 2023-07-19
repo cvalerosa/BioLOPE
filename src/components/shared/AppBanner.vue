@@ -44,7 +44,7 @@ export default {
 					data-aos-delay="700"
 				>
 				<router-link
-				to="/solutions"
+				to="/solution"
 				aria-label="More Information"
 				>
 					<Button title="More Information" />
