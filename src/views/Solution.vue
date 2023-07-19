@@ -1,4 +1,4 @@
-// TODO: Split "Solution" view into components, allowing for reuse (e.g., to display this page as a subpage of "Home")
+// TODO: Split "Solution" view into components (see: components > solution > AdvantageItem.vue), allowing for reuse (e.g., to display this page as a subpage of "Home")
 
 <template>
 	<div class="bg-white py-24 sm:py-32">

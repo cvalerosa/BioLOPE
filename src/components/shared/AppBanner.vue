@@ -43,7 +43,12 @@ export default {
 					data-aos-once="true"
 					data-aos-delay="700"
 				>
-					<Button title="More information" />
+				<router-link
+				to="/solutions"
+				aria-label="More Information"
+				>
+					<Button title="More Information" />
+				</router-link>
 				</div>
 			</div>
 			<div class="hidden sm:block col-span-12 lg:col-span-6">
