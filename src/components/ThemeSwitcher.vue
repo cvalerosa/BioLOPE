@@ -22,12 +22,12 @@ export default {
 		<i
 			v-if="theme === 'light'"
 			data-feather="moon"
-			class="text-liText-gray-200 hover:text-gray-400 dark:text-liText-green-700 dark:hover:text-liBorder-green-500 w-5"
+			class="text-gray-200 hover:text-gray-300 w-5"
 		></i>
 		<i
 			v-else
 			data-feather="sun"
-			class="text-gray-200 hover:text-gray-50 w-5"
+			class="dark:text-gray-400 dark:hover:text-green-400 w-5"
 		></i>
 	</a>
 </template>

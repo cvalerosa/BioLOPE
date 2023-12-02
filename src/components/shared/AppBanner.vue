@@ -27,7 +27,7 @@ export default {
 					data-aos="fade-right"
 					data-aos-once="true"
 				>
-					The <span class="text-header-gradient">BioLOPES</span> revolution
+					The <span class="text-header-gradient">BioLOPE</span> revolution
 				</h1>
 				<p
 					class="paragraph hidden text-gray-500 text-lg sm:block"

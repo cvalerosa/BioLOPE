@@ -24,12 +24,12 @@ export default {
 <template>
 	<div>
 		<label
-			class="block mb-2 text-lg text-black dark:text-green-500"
+			class="block mb-2 text-lg text-black dark:text-gray-500"
 			:for="label"
 			>{{ label }}</label
 		>
 		<input
-			class="w-full px-5 py-3 border border-gray-300 dark:border-black border-opacity-50 text-black dark:text-green-50 bg-green-700 dark:bg-gray-800 rounded-md shadow-sm text-md"
+			class="w-full px-5 py-3 border border-green-300 dark:border-gray-700 border-opacity-50 text-black dark:text-green-50 bg-green-100 dark:bg-gray-800 rounded-md shadow-sm text-md"
 			:id="inputIdentifier"
 			:name="inputIdentifier"
 			:placeholder="label"

@@ -130,7 +130,7 @@ export default {
 						id: 5,
 						name: 'Youtube',
 						icon: 'youtube',
-						url: 'https://www.youtube.com/c/StomanStudio',
+						url: 'https://www.youtube.com/c/B',
 					},
 				],
 			},

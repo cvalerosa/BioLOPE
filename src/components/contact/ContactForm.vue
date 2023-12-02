@@ -8,10 +8,10 @@ export default { components: { Button, FormInput, FormTextarea } };
 <template>
 	<div class="w-full md:w-1/2">
 		<div
-			class="leading-loose max-w-xl m-4 p-7 bg-green-50 dark:bg-gray-900 rounded-xl shadow-xl text-left"
+			class="leading-loose max-w-xl m-4 p-7 bg-green-200 dark:bg-gray-900 rounded-xl shadow-xl text-left"
 		>
 			<p
-				class="font-general-medium text-black dark:text-green-500 text-2xl mb-8"
+				class="font-general-medium text-2xl text-green-700 dark:text-gray-500 mt-12 mb-8"
 			>
 				Contact Form
 			</p>

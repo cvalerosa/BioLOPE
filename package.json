@@ -34,7 +34,7 @@
     "vuetify": "^3.3.8"
   },
   "devDependencies": {
-    "@vue/cli-service": "~5.0.8",
+    "@vue/cli-service": "^5.0.8",
     "@vue/compiler-sfc": "^3.2.45",
     "autoprefixer": "^10.4.13",
     "babel-eslint": "^10.1.0",

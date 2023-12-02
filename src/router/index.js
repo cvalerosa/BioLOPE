@@ -7,7 +7,7 @@ const routes = [
 		name: 'Home',
 		component: Home,
 		meta: {
-			title: 'BioLOPES | Home',
+			title: 'BioLOPE | Home',
 		},
 	},
 	{
@@ -19,7 +19,7 @@ const routes = [
 		component: () =>
 			import(/* webpackChunkName: "about" */ '../views/About.vue'),
 		meta: {
-			title: 'BioLOPES | About',
+			title: 'BioLOPE | About',
 		},
 	},
 
@@ -32,7 +32,7 @@ const routes = [
 		component: () =>
 			import(/* webpackChunkName: "about" */ '../views/Solution.vue'),
 		meta: {
-			title: 'BioLOPES | Solution',
+			title: 'BioLOPE | Solution',
 		},
 	},
 
@@ -45,7 +45,7 @@ const routes = [
 		component: () =>
 			import(/* webpackChunkName: "projects" */ '../views/Projects.vue'),
 		meta: {
-			title: 'BioLOPES | Projects',
+			title: 'BioLOPE | Projects',
 		},
 	},
 	{
@@ -59,7 +59,7 @@ const routes = [
 				/* webpackChunkName: "projects" */ '../views/SingleProject.vue'
 			),
 		meta: {
-			title: 'BioLOPES | Single Project',
+			title: 'BioLOPE | Single Project',
 		},
 	},
 	{
@@ -71,7 +71,7 @@ const routes = [
 		component: () =>
 			import(/* webpackChunkName: "projects" */ '../views/Contact.vue'),
 		meta: {
-			title: 'Stoman - Contact',
+			title: 'BioLOPE | Contact',
 		},
 	},
 ];

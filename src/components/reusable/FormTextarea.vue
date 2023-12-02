@@ -20,12 +20,12 @@ export default {
 <template>
 	<div>
 		<label
-			class="block text-lg text-black dark:text-green-500 mb-2"
+			class="block text-lg text-black dark:text-gray-500 mb-2"
 			:for="textareaIdentifier"
 			>{{ label }}</label
 		>
 		<textarea
-			class="w-full px-5 py-2 border border-gray-300 dark:border-black border-opacity-50 text-black dark:text-green-50 bg-green-700 dark:bg-gray-800 rounded-md shadow-sm text-md"
+		class="w-full px-5 py-3 border border-green-300 dark:border-gray-700 border-opacity-50 text-black dark:text-green-50 bg-green-100 dark:bg-gray-800 rounded-md shadow-sm text-md"
 			:id="textareaIdentifier"
 			:name="textareaIdentifier"
 			:aria-label="textareaIdentifier"
